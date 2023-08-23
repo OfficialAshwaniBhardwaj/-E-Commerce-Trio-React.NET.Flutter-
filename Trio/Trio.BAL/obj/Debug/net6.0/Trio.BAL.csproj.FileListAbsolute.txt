@@ -1,0 +1,14 @@
+C:\Projects\Full_Stack\Trio\Trio.BAL\bin\Debug\net6.0\Trio.BAL.exe
+C:\Projects\Full_Stack\Trio\Trio.BAL\bin\Debug\net6.0\Trio.BAL.deps.json
+C:\Projects\Full_Stack\Trio\Trio.BAL\bin\Debug\net6.0\Trio.BAL.runtimeconfig.json
+C:\Projects\Full_Stack\Trio\Trio.BAL\bin\Debug\net6.0\Trio.BAL.dll
+C:\Projects\Full_Stack\Trio\Trio.BAL\bin\Debug\net6.0\Trio.BAL.pdb
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.AssemblyInfoInputs.cache
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.AssemblyInfo.cs
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.dll
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\refint\Trio.BAL.dll
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.pdb
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\Trio.BAL.genruntimeconfig.cache
+C:\Projects\Full_Stack\Trio\Trio.BAL\obj\Debug\net6.0\ref\Trio.BAL.dll
