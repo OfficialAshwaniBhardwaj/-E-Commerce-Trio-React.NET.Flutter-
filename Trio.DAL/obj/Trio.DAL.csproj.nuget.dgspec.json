@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Full_Stack\\Trio\\Trio.DAL\\Trio.DAL.csproj": {}
+    "C:\\Projects\\Full_Stack\\Trio.DAL\\Trio.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Full_Stack\\Trio\\Trio.DAL\\Trio.DAL.csproj": {
+    "C:\\Projects\\Full_Stack\\Trio.DAL\\Trio.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Full_Stack\\Trio\\Trio.DAL\\Trio.DAL.csproj",
+        "projectUniqueName": "C:\\Projects\\Full_Stack\\Trio.DAL\\Trio.DAL.csproj",
         "projectName": "Trio.DAL",
-        "projectPath": "C:\\Projects\\Full_Stack\\Trio\\Trio.DAL\\Trio.DAL.csproj",
+        "projectPath": "C:\\Projects\\Full_Stack\\Trio.DAL\\Trio.DAL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Full_Stack\\Trio\\Trio.DAL\\obj\\",
+        "outputPath": "C:\\Projects\\Full_Stack\\Trio.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

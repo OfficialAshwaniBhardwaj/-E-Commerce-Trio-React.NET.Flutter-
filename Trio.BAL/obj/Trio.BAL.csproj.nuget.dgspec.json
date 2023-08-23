@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Full_Stack\\Trio\\Trio.BAL\\Trio.BAL.csproj": {}
+    "C:\\Projects\\Full_Stack\\Trio.BAL\\Trio.BAL.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Full_Stack\\Trio\\Trio.BAL\\Trio.BAL.csproj": {
+    "C:\\Projects\\Full_Stack\\Trio.BAL\\Trio.BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Full_Stack\\Trio\\Trio.BAL\\Trio.BAL.csproj",
+        "projectUniqueName": "C:\\Projects\\Full_Stack\\Trio.BAL\\Trio.BAL.csproj",
         "projectName": "Trio.BAL",
-        "projectPath": "C:\\Projects\\Full_Stack\\Trio\\Trio.BAL\\Trio.BAL.csproj",
+        "projectPath": "C:\\Projects\\Full_Stack\\Trio.BAL\\Trio.BAL.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Full_Stack\\Trio\\Trio.BAL\\obj\\",
+        "outputPath": "C:\\Projects\\Full_Stack\\Trio.BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

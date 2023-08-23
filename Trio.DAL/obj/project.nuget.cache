@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YjwbTDx8TpWV8DiyOwmd+b2lkaVyPTpr36mQnXfT/onjSDDA7moj1zNJL1cDZXZYHFXgS2RFw3LrwuCSYZNiLA==",
+  "dgSpecHash": "tCcHYSC0WXH8cyD4KCvZ6tjI3drFADZUgRpesMFE1jtJYq+rrsvtPUXdK12sdW5CdGQ5mfasHKRDTw+b/3t95g==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Full_Stack\\Trio\\Trio.DAL\\Trio.DAL.csproj",
+  "projectFilePath": "C:\\Projects\\Full_Stack\\Trio.DAL\\Trio.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
