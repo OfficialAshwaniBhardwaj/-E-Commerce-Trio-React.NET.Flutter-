@@ -52,7 +52,6 @@ namespace FileTest.Controllers
             {
                 string fileUrl = "http://writing.engr.psu.edu/workbooks/formal_report_template.doc";
                 //string fileUrl = "https://calibre-ebook.com/downloads/demos/demo.docx";
-                //string fileUrl = "https://alp2.blob.core.windows.net/alp-documents/f71c25ea-4d62-4565-83a7-d487cbee7b39?sv=2021-08-06&st=2023-08-25T10%3A13%3A17Z&se=2023-08-25T11%3A13%3A27Z&sr=b&sp=r&rscd=attachment%3B+filename+%3D%22Testing1.docx%22+&sig=WivJqlW8hVML%2BfAM08TPKuHc%2F%2FZOCyyendKtUhhE%2B4I%3D";
                 using (WebClient client = new WebClient())
                 {
                     MemoryStream stream = new MemoryStream(client.DownloadData(fileUrl));
